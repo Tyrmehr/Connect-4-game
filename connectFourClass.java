@@ -1,8 +1,6 @@
 /*
- * Rajan Mehrpanah
  * Connect four project
  * Purpose: To create a connect four game
- * Date: January 2nd 2021
  */
 
 package connectFour;
