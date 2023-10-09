@@ -130,7 +130,7 @@ public class connectFourClass extends JPanel implements ActionListener, MouseLis
 	repaint ();
     }
     
-//------------YOUR CODE GOES HERE  ------------------//
+
     //Start of the method to clear the board after every game
     public void clearBoard (int[] [] board)
     {
