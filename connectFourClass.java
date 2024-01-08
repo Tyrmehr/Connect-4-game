@@ -1,7 +1,4 @@
-/*
- * Connect four project
- * Purpose: To create a connect four game
- */
+
 
 package connectFour;
 import java.awt.*;
@@ -223,7 +220,7 @@ public class connectFourClass extends JPanel implements ActionListener, MouseLis
     }//End of code
 
 
-//----------------------------------------------------//
+
 
 
     public void handleAction (int x, int y)
